@@ -174,4 +174,7 @@ cython_debug/
 .pypirc
 
 # Arquivos teste
-try.*
+try*
+teste*
+test*
+test_*
